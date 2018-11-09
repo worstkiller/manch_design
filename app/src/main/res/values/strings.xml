@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Manch</string>
+    <string name="app_title">नया पोल </string>
+    <string name="text_sub_title">पोस्ट करें</string>
+    <string name="placeholder_edit_poll">अपने पोल का प्रश्न यहां लिखें …</string>
+    <string name="placeholder_option_1">विकल्प 1</string>
+    <string name="placeholder_option_2">विकल्प 2</string>
+    <string name="placeholder_option_no">40</string>
+    <string name="placeholder_poll_time">अपने पोल को चलाएं :<b><font color='#f69653'> 1 दिन </font></b></string>
+</resources>
